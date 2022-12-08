@@ -24,3 +24,4 @@
     // a) rederigir a index
   header('location: index.html');
 ?>
+
